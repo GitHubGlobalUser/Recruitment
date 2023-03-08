@@ -12,6 +12,7 @@
 1. 熟悉一门主流语言（Java/C#/Python/JavaScript等）；
 2. 具备良好的系统分析能力，能独立分析、解决问题，具有良好的团队合作精神、沟通能力及抗压性；
 3. 熟悉微服务架构，熟悉Spring Boot、Spring Cloud或VUE架构优先；
+4. 联系方式: 在issues那里留言即可, 我会回复你
 
 # Huawei Software Elite Reserve Team (OD) Recruitment
 
@@ -27,3 +28,4 @@
 1. Familiar with one mainstream language (Java/C#/Python/JavaScript, etc.);
 2. Have good system analysis skills, can independently analyze and solve problems, have good team spirit, communication skills and stress resistance;
 3. Familiar with microservice architecture, familiar with Spring Boot, Spring Cloud or VUE architecture preferred;
+4. Contact information: Just leave a message in the issues, I will reply you.
