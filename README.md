@@ -22,5 +22,3 @@ Huawei Software Elite Reserve Team (OD) Recruitment
 1, familiar with a mainstream language (Java/C#/Python/JavaScript, etc.).
 2、Good system analysis skills, able to independently analyze and solve problems, good teamwork spirit, communication skills and stress resistance.
 3, familiar with microservices architecture, familiar with Spring Boot, Spring Cloud or VUE architecture preferred.
-
-Translated with www.DeepL.com/Translator (free version)
