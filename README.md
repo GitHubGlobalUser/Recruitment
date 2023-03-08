@@ -1,12 +1,14 @@
 # Huawei Software Elite Reserve Team (OD) Recruitment
 
-## Job Position: Software Development Engineer/Test Engineer
-## Location: Shenzhen Longgang Bantian
-## Education: Bachelor's degree or above, prestigious universities preferred
-## Work Experience: Not required (fresh graduates and experienced candidates are welcome)
-## Department: Quality and Process IT Department - Platform Service Department Elite Reserve Team (OD)
-## Salary and Benefits: Based on ability and interview performance, match Huawei's relevant salary and bonus levels, about 15-40K RMB per month, plus 2-4 months bonus.
+- **Job Position:** Software Development Engineer/Test Engineer
+- **Location:** Shenzhen Longgang Bantian
+- **Education:** Bachelor's degree or above, prestigious universities preferred
+- **Work Experience:** Not required (fresh graduates and experienced candidates are welcome)
+- **Department:** Quality and Process IT Department - Platform Service Department Elite Reserve Team (OD)
+- **Salary and Benefits:** Based on ability and interview performance, match Huawei's relevant salary and bonus levels, about 15-40K RMB per month, plus 2-4 months bonus.
+
 ## Basic Requirements:
+
 1. Familiar with one mainstream language (Java/C#/Python/JavaScript, etc.);
 2. Have good system analysis skills, can independently analyze and solve problems, have good team spirit, communication skills and stress resistance;
 3. Familiar with microservice architecture, familiar with Spring Boot, Spring Cloud or VUE architecture preferred;
